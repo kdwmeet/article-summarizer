@@ -58,3 +58,5 @@ uv run streamlit run main.py
   - 해당 모델은 다음 달부터 오픈 소스로 전면 공개될 예정입니다.
 
 ## 8. 실행 화면
+
+<img width="1539" height="602" alt="스크린샷 2026-04-30 095147" src="https://github.com/user-attachments/assets/aff33f00-56eb-4d99-8f6b-9ff293c8a524" />
